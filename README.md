@@ -5,4 +5,5 @@
 
 📈 I've been developing software professionally since 2019, working across a variety of projects and tech stacks, both on the frontend and backend.
 
-📫 You can reach me via my Linkedin profile (pinned in my profile section) or by E-Mail: pedro.fachini.99@gmail.com
+📫 Feel free to reach out!
+You can contact me via LinkedIn (linked in my GitHub profile) or by email at pedro.fachini.99@gmail.com.
