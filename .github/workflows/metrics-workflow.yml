@@ -17,6 +17,7 @@ jobs:
           base: header, activity, community, repositories, metadata
           plugin_repositories: yes
           plugin_repositories_affiliations: owner, collaborator
+          plugin_repositories_pinned: 3
           plugin_traffic: yes
           plugin_stars: yes
           plugin_stars_limit: 3
